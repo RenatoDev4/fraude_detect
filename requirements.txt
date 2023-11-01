@@ -1,0 +1,12 @@
+# requirements.txt / Renato - Cientista de dados / Para novos projetos
+
+# Bibliotecas para manipulação e análise de dados
+pandas
+numpy
+
+# Bibliotecas para visualização de dados
+matplotlib
+seaborn
+
+# Biblioteca para aprendizado de máquina
+scikit-learn

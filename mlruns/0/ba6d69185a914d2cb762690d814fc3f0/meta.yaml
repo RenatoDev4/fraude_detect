@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ba6d69185a914d2cb762690d814fc3f0/artifacts
+deleted_time: 1698862672481
+end_time: 1698862411250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ba6d69185a914d2cb762690d814fc3f0
+run_name: Detecção de Fraude - Random Forest
+run_uuid: ba6d69185a914d2cb762690d814fc3f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698862177535
+status: 4
+tags: []
+user_id: renato
